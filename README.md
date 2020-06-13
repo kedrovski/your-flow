@@ -4,7 +4,6 @@
 ![](https://github.com/kedrovski/your-flow/blob/master/screenshots/screenshot2.png)
 ![](https://github.com/kedrovski/your-flow/blob/master/screenshots/screenshot3.png)
 ![](https://github.com/kedrovski/your-flow/blob/master/screenshots/screenshot4.png)
-![](https://github.com/kedrovski/your-flow/blob/master/screenshots/screenshot5.png)
 
 ## Project setup
 ```
