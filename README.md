@@ -1,4 +1,4 @@
-# flow-demo
+# your-flow
 This client application implemented using the Vuejs framework. 
 
 Implemented the ability to create, edit, delete tasks, as well as users of the system. Drag and Drop functionality. Data storage is carried out in localStorage.
