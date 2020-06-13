@@ -1,2 +1,19 @@
-# your-flow
-This client application implemented using the Vuejs framework. Implemented the ability to create, edit, delete tasks, as well as users of the system. Data storage is carried out in localStorage. For the real project it is best to connect Vuex. This project use great free avatars from Dmitriy Bondarchuk https://www.behance.net/indie4art
+# flow-demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
